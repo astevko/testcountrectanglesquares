@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cf2d4f3-2797-4a72-804c-b62e242dc4a4" name="Default Changelist" comment="Solution1 solves the puzzle. Solution2 was a trip down the rabbit hole.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-3.0.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-3.0.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/asm-7.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/asm-7.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/asm-7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bsh-2.0b6-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bsh-2.0b6-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bsh-2.0b6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-2.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-2.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-library-2.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-library-2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-library-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jcip-annotations-1.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jcip-annotations-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-2.12.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-2.12.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-testjar-2.12.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-testjar-2.12.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jmock-testjar-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsr305-3.0.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsr305-3.0.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsr305-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcountrectanglesquares.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Andrew Stevko" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XK53v51NoAaAJFhLNJ6is6VwMw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.21828908" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="JUnit.Solution1">
+    <configuration name="Solution1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcountrectanglesquares" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="testcountrectanglesquares" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.Solution1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Solution1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf2d4f3-2797-4a72-804c-b62e242dc4a4" name="Default Changelist" comment="" />
+      <created>1580781750584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580781750584</updated>
+      <workItem from="1580781754869" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solution1 solves the puzzle. Solution2 was a trip down the rabbit hole." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution1 solves the puzzle. Solution2 was a trip down the rabbit hole." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="99" key="#Unnamed" timestamp="1580781845458">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="295" y="99" key="#Unnamed/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781845458" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580781836790">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781836790" />
+    <state x="468" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580782420455">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="468" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580782420455" />
+    <state x="247" y="40" key="CommitChangelistDialog2" timestamp="1580785882917">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="247" y="40" key="CommitChangelistDialog2/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580785882917" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1580781940772">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781940772" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1580781940771">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781940771" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1580781940770">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781940770" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1580781940772">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781940772" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1580781771997">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781771997" />
+    <state x="385" y="199" key="run.anything.popup" timestamp="1580781894772">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="385" y="199" key="run.anything.popup/295.-1129.2048.1129/0.23.1440.830@0.23.1440.830" timestamp="1580781894772" />
+  </component>
+</project>
